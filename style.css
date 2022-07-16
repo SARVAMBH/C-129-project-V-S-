@@ -20,7 +20,9 @@ body{
 canvas {
     border-radius: 20px;
     margin: 50px;
-    border: 5px solid goldenrod
+    border: 5px solid goldenrod;
+    margin-top: 150px;
+    
 }
 
 .play_button{
